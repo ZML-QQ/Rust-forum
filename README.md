@@ -8,4 +8,4 @@ A new Rust-forum for Rustaceans.
 - Pull-requests          建议
 - Projects                 规划
 
-### 开发，交流，创新，包容！
+### 开放，交流，创新，包容！
