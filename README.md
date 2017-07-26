@@ -1,5 +1,8 @@
 # Rust-forum
-A new Rust-forum for Rustaceans.
+
+**新Issues格式：[标签] 标题**  如：[Rustlang-资源]Rust之书来了！
+
+**7**类标签(多标签用-连接)： Rustlang - 讨论 - 问答 - 招聘 - 博文 - 项目 - 资源
 
 #### 这是一个新的Rust-forum，用于交流Rust-lang.
 - Code                      Examples
