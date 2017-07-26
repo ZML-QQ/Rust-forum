@@ -1,0 +1,9 @@
+[package]
+name = "game"
+version = "0.1.0"
+authors = ["kriry <krircc@gmail.com>"]
+
+[dependencies]
+postgres = "*"
+rand = "*"
+ansi_term = "*"
